@@ -9,6 +9,20 @@ Real-time notifications when a KPI is outside the desired range.
 Machine learning algorithms to identify relevant new KPIs and eliminate unnecessary ones.
 Integration with different data sources such as enterprise databases, spreadsheets, and third-party systems.
 
+Data collection: The application collects production, maintenance, and other relevant variables data from the company using automatic or manual data collection technologies.
+
+Data preprocessing: The collected data is preprocessed using tools like Pandas and Numpy to clean and prepare it for use in data analysis and predictive modeling.
+
+Data analysis: The preprocessed data is analyzed using AI technologies like Scikit-learn and TensorFlow to identify patterns and trends in historical data.
+
+Predictive modeling: Machine learning algorithms such as regression, decision trees, and neural networks are used to train predictive models that can predict future production and expenditure, taking into account historical data.
+
+KPI selection: Based on the analysis and predictive modeling results, relevant KPIs are selected for monitoring and improvement.
+
+Dashboard creation: A dashboard is created using Flask and React to display the selected KPIs in real-time and provide actionable insights for decision-making.
+
+Continuous improvement: The application continually monitors and analyzes data, updating predictive models and KPIs as necessary to optimize production efficiency and reduce maintenance costs.
+
 ## Technologies used
 Python
 React
