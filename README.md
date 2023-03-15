@@ -32,7 +32,9 @@ Scikit-learn
 NumPy
 Matplotlib
 Seaborn
-Others
+TensorFlow
+OpenCV
+PySerial
 
 ## Contributions
 If you want to contribute to the development of KPIexplorer AI, contact me
