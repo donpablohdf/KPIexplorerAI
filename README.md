@@ -35,6 +35,7 @@ Seaborn
 TensorFlow
 OpenCV
 PySerial
+ChatGPT
 
 ## Contributions
 If you want to contribute to the development of KPIexplorer AI, contact me
