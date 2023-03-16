@@ -29,6 +29,8 @@ React
 Flask
 SQLAlchemy
 PowerBI
+NI-DAQmx
+Pandas
 Scikit-learn
 NumPy
 Matplotlib
